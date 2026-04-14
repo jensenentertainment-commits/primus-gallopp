@@ -75,6 +75,17 @@ export default function CaserPage() {
                 >
                   {item.meta}
                 </div>
+            {item.id === "05" && (
+  <div
+    className={`mt-5 text-sm ${
+      index === 1 ? "text-white/70" : "text-black/70"
+    }`}
+  >
+    <Link href="/nfi" className="underline underline-offset-4">
+      Se løsning →
+    </Link>
+  </div>
+)}
               </article>
             ))}
           </div>

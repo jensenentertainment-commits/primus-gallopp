@@ -54,6 +54,15 @@ export const cases = [
     body: "Ved å fjerne all direkte kobling til faktisk innhold etablerte vi et begrep som tåler ubegrenset bruk og minimal oppfølging.",
     meta: "Branding / Semantikk / Strategisk flukt",
   },
+
+  {
+  id: "05",
+  client: "Norsk Forventningsinstitutt",
+  category: "Etablering / Identitet / Digital flate",
+  title: "Vi etablerte et institutt for å løfte forventning til et mer forutsigbart nivå.",
+  body: "Primus-Gallopp utviklet navn, identitet, språk og digital tilstedeværelse for en nasjonal aktør med ansvar for forventningsarbeid på tvers av nivåer, sektorer og uavklarte situasjoner.",
+  meta: "Strategi / Identitet / Digital flate / Begrepsutvikling",
+}
 ];
 
 export const facts = [
