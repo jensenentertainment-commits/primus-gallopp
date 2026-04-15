@@ -330,7 +330,7 @@ export default function Home() {
             <a href="mailto:post@primus-gallopp.no" className="hover:text-black">
               post@primus-gallopp.no
             </a>
-            <div>Rykkin / Sareptaveien / Midlertidig på stedet</div>
+            <div>Stedsnavn / Sareptaveien / Midlertidig på stedet</div>
           </div>
         </div>
       </section>

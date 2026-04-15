@@ -43,7 +43,7 @@ export default function KontaktPage() {
               Lokasjoner
             </div>
             <div className="mt-5 text-3xl font-medium tracking-[-0.04em]">
-              Rykkin / Sareptaveien / Midlertidig på stedet
+              Stedsnavn / Sareptaveien / Midlertidig på stedet
             </div>
             <p className="mt-6 max-w-md text-sm leading-7 text-white/72">
               Fysiske møter vurderes fortløpende. Digitale møter gjennomføres

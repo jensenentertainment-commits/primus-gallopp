@@ -23,7 +23,7 @@ export default function OmOssPage() {
             Da struktur møtte kaos, og ingen av dem hadde noe særlig valg.
           </h1>
           <p className="mt-8 max-w-3xl text-lg leading-8 text-black/68">
-            Primus-Gallopp ble formelt etablert i 2021, men historien begynner
+            Primus-Gallopp ble formelt etablert i 2019, men historien begynner
             tidligere. Byrået er resultatet av en sammenslåing mellom to miljøer
             som hver for seg var fullt funksjonelle på papiret, men vanskeligere
             i praksis.
@@ -38,10 +38,10 @@ export default function OmOssPage() {
               1947–2021 / Primus Strategi &amp; Rapportering
             </div>
             <h2 className="mt-5 text-3xl font-medium leading-tight tracking-[-0.05em]">
-              Rykkin-formasjonen
+              Grunnleggende formasjonen
             </h2>
             <p className="mt-5 text-base leading-8 text-black/68">
-              Grunnlagt i 1947 av Altor Primus. Miljøet var preget av tunge
+              Grunnlagt i 1929 av Altor Primus. Miljøet var preget av tunge
               dokumenter, metodisk alvor og en vedvarende tro på at enhver
               beslutning kunne forbedres gjennom flere runder med vurdering.
             </p>
@@ -61,7 +61,7 @@ export default function OmOssPage() {
               Sareptaveien-miljøet
             </h2>
             <p className="mt-5 text-base leading-8 text-black/68">
-              Studio Gallopp oppsto i Bergen som et lite, visuelt selvsikkert
+              Studio Gallopp oppsto som et lite, visuelt selvsikkert
               designmiljø med sterk gjennomføringsevne og begrenset interesse for
               struktur. De leverte ofte sent, men med så høy formmessig
               overbevisning at innvendinger mistet tempo underveis.
@@ -87,7 +87,7 @@ export default function OmOssPage() {
           </div>
 
           <div className="max-w-2xl text-base leading-8 text-white/72">
-            I 2021 ble de to miljøene samlet etter en lengre intern prosess som
+            I 2023 ble de to miljøene samlet etter en lengre intern prosess som
             ifølge arkivmaterialet startet med en nattlig forhandling på en
             veikro utenfor Minnesund. Primus brakte språk, tyngde og
             dokumentasjonsvilje. Gallopp brakte tempo, overflate og evnen til å
@@ -190,7 +190,7 @@ export default function OmOssPage() {
 
       <article className="rounded-[30px] border border-black/10 bg-[#e8e1d5] p-8">
         <h3 className="text-2xl font-medium tracking-[-0.04em]">
-          Sigrid Gallopp
+          Sigrid Hendel
         </h3>
         <div className="mt-2 text-sm uppercase tracking-[0.18em] text-black/40">
           Kreativ leder, visuell uro
@@ -203,7 +203,7 @@ export default function OmOssPage() {
 
 <article className="rounded-[30px] border border-black/10 bg-[#111111] p-8 text-white shadow-[0_20px_60px_rgba(0,0,0,0.25)]">
   <h3 className="text-2xl font-medium tracking-[-0.04em] text-white">
-    Eivind T. Ramm
+    B.G.J. Engen
   </h3>
 
   <div className="mt-2 text-sm uppercase tracking-[0.18em] text-white/45">
@@ -218,7 +218,7 @@ export default function OmOssPage() {
 
       <article className="rounded-[30px] border border-black/10 bg-white/40 p-8">
         <h3 className="text-2xl font-medium tracking-[-0.04em]">
-          Lillian Mørk
+          Selma-Sjanett Røst Evensnes
         </h3>
         <div className="mt-2 text-sm uppercase tracking-[0.18em] text-black/40">
           Styreleder
@@ -232,7 +232,7 @@ export default function OmOssPage() {
 
       <article className="rounded-[30px] border border-black/10 bg-white/40 p-8">
         <h3 className="text-2xl font-medium tracking-[-0.04em]">
-          Midlertidig observatør
+          S. Vindler
         </h3>
         <div className="mt-2 text-sm uppercase tracking-[0.18em] text-black/40">
           Uavhengig representant

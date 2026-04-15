@@ -17,14 +17,14 @@ export default function SiteHeader({
     <header className="border-b border-black/10">
       <div className="mx-auto flex max-w-[1440px] items-center justify-between px-6 py-5 md:px-10">
         <Link href="/" className="flex flex-col gap-1">
-          <div className="text-[11px] uppercase tracking-[0.26em] text-black/40">
-            Primus-Gallopp
+          <div className="text-[16px] md:text-[18px] font-medium tracking-[0.14em] text-black/80">
+            PRIMUS-GALLOPP
           </div>
-          <div className="text-sm font-medium tracking-[-0.03em]">
+          <div className="text-sm text-black/60 font-medium tracking-[-0.03em]">
             Strategi / Identitet / Kampanje / Presentasjon
           </div>
-          <div className="hidden text-[10px] uppercase tracking-[0.3em] text-black/35 md:block">
-            PG-RYKKINN / PG-SAREPTAVEIEN / PG-REMOTE
+          <div className="hidden text-[10px] uppercase tracking-[0.28em] text-black/30 md:block">
+            PG-STEDSNAVN / PG-SAREPTAVEIEN / PG-REMOTE
           </div>
         </Link>
 
